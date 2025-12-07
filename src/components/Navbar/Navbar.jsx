@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "../../assets/brand/Logo.png";
 import { motion } from "framer-motion";
 
 const NavLinks = [
